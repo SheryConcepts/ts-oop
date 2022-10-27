@@ -1,0 +1,1 @@
+A simple example of inheritence in object oriented programming.
